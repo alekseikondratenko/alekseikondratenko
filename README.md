@@ -1,6 +1,6 @@
 ### Hello, I am Aleksei 👋
 
-Here are some ideas to get you started:
+Here ais some brief information about me:
 
 
 - 🔭 I’m currently working on AI/ML applications in Civil Engineering
